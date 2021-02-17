@@ -1,6 +1,6 @@
 :root{
-    --dark-green : #c22020;
-    --faint-green: #161d8b;
+    --dark-green : #2087c293;
+    --faint-green: #eb0303;
 }
 *{
     font-family: 'Open Sans', sans-serif;
@@ -43,7 +43,7 @@ button{
     font-size: 1rem;
     border: none;
     margin: 1rem auto 0;
-    background-color:var(--faint-green);
+    background-color:var(black);
     color: var(--dark-green);
     font-weight: bold;
 }
@@ -64,8 +64,8 @@ button{
 
 #output table, th, td{
     padding: 0.2rem;
-    color: var(--dark-green);
-    background-color:var(--faint-green);
+    color: var(black);
+    background-color:var(black);
     border: 2px solid var(--dark-green) ;
     border-collapse: collapse;
 }
