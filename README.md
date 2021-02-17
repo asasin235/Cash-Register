@@ -11,4 +11,4 @@ App is created in Html, Css and Vanilla JS. Hosted on netlify.
 
 ### Demonstration:
 
-![Demo](https://github.com/asasin235/Cash-Register/blob/main/demonstration.gif)
+![Demo](https://github.com/asasin235/Cash-Register/blob/main/demo.gif)
